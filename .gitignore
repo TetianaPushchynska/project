@@ -25,3 +25,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Ignore IDE and OS specific files
+idea
+/idea
+.idea
+/.idea
+/config/database.yml
+config/database.yml
