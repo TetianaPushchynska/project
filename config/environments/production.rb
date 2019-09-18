@@ -94,6 +94,6 @@ Rails.application.configure do
 
   config.action_mailer.default_url_options = { host: "thawing-ridge-97061.herokuapp.com"}
   config.action_mailer.delivery_method = :mailgun
-  config.action_mailer.mailgun_settings = { api_key: '2bd9b9fb1e2b849c60d67268f3013a41-bbbc8336-bf4ff151',
-                                            domain:  'sandboxb155485c97324ddc9bbc88c23f900298.mailgun.org' }
+  config.action_mailer.mailgun_settings = { api_key: '41f15c48192a3ff10a498f6cdeda34d7-bbbc8336-8c0824bc',
+                                            domain:  'sandbox2c5afbf4c68b4c1293210e154396fc11.mailgun.org' }
 end
