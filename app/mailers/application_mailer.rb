@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
 class ApplicationMailer < ActionMailer::Base
-  default from: 'app146390959@heroku.com'
+  default from: 'sandbox2c5afbf4c68b4c1293210e154396fc11.mailgun.org'
   layout 'mailer'
 end
